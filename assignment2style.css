@@ -8,13 +8,13 @@
 
 .topnav {
 	background-color:#CCC;
-	height: 250px;;
+	height: 100px;;
 	width: 90%;
 }
 .foodllc {
 	font-size:25px;
 	font-family:"Comic Sans MS", cursive;
-	margin: 20px;
+	margin: 10px;
 }
 .logo {
 	float:left;
